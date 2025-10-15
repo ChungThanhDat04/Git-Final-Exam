@@ -1,1 +1,3 @@
-Mô tả tính năng mới (ít nhất 5 dòng)
+Git is powerful
+Git is flexible
+Git is widely used
