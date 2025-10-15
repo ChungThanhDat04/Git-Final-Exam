@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:  
+- Tôi là Thành Đạt
+- Sinh ra tại Ngã Bảy  
+- Đang học 
+- Mục tiêu nghề nghiệp  
+- Thích công nghệ và học hỏi 
+
+Sở thích:  
+- Đọc sách  
+- Lập trình  
+- Du lịch
+
+Kỹ năng:  
+- Python  
+- Git  
+- HTML/CSS
