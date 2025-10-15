@@ -1,0 +1,8 @@
+- Ngày 1: Ôn lại kiến thức 
+- Ngày 2: Học thêm kiến thức mới 
+- Ngày 3: Giải các bài tập
+- Ngày 4: Học python
+- Ngày 5: tìm hiểu python
+- Ngày 6: Giải bài tập python
+- Ngày 7: Ôn bài kiểm tra
+
