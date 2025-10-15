@@ -1,3 +1,5 @@
 Git is powerful
 Git is flexible
 Git is widely used
+Git is essential for version control
+GitHub hosts code repositories
